@@ -1,6 +1,30 @@
-.container {
-    background-color: rgb(20, 1, 1);
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1 ,  h4 {
+    font-size: 50px;
+}
+.my-name {
+    color: tomato;
+}
+.homepage{
     display: flex;
-    background-color: #485461;
-    background-image: linear-gradient(315deg, #485461 0%, #28313b 74%);
+    background-color: honeydew;
+}
+.half-width {
+    width: 50%;
+    padding: 40px;
+}
+.half-img {
+    width: 80%;
+}
+.button1 {
+   background-color: tomato;
+   text-decoration: none;
+   padding: 8px 36px;
+   border-radius: 5%;
+   color: ivory;
+   background-image: linear-gradient ( tomato aqua);
+   font-weight: 700;
+
 }
