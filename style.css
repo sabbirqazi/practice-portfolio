@@ -1,7 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-h1 ,  h4 {
+h1 , h2, h4 {
     font-size: 50px;
 }
 .my-name {
@@ -10,6 +10,7 @@ h1 ,  h4 {
 .homepage{
     display: flex;
     background-color: honeydew;
+    padding-bottom: 100px;
 }
 .half-width {
     width: 50%;
@@ -26,5 +27,23 @@ h1 ,  h4 {
    color: ivory;
    background-image: linear-gradient ( tomato aqua);
    font-weight: 700;
-
 }
+/* 2nd section*/
+.dream-big {
+    display: flex;
+    background-color: honeydew;
+    
+}
+.half-div {
+    width: 50%;
+    padding: auto;
+}
+.button2 {
+    background-color: tomato;
+    text-decoration: none;
+    padding: 8px 36px;
+    border-radius: 5%;
+    color: ivory;
+    background-image: linear-gradient ( tomato aqua);
+    font-weight: 700;
+ }
