@@ -32,6 +32,7 @@ h1 , h2, h4 {
 .dream-big {
     display: flex;
     background-color: honeydew;
+    padding-bottom: 100px;
     
 }
 .half-div {
@@ -47,3 +48,35 @@ h1 , h2, h4 {
     background-image: linear-gradient ( tomato aqua);
     font-weight: 700;
  }
+ .experience-area {
+     background-color: honeydew;
+ }
+ .show-card  {
+    box-shadow: 5px 5px 50px silver;
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    border-radius: 10px;
+    }
+.ex{
+        padding-left: 40px;
+    }
+#box1{
+        border-left: 7px solid;
+        border-image: linear-gradient(cyan ,red);
+        border-image-slice: 1;
+       
+     }
+#box2 {
+        border-left: 7px solid;
+        border-image: linear-gradient(cyan ,red);
+        border-image-slice: 1;
+       
+     }
+
+footer{
+   background-color: honeydew;
+   text-align: center;
+}
+  
+ 
